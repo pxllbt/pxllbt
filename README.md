@@ -1,6 +1,6 @@
 # Hi, I'm Pix 👋
 
-A student from the Philippines. Learning Java, C#, and basics of databases — and a fan of vibe coding.
+Learning Java, C#, and the basics of databases. Fan of vibe coding.
 
 - 🔭 Currently exploring Omarchy & Linux desktop tools
 - ⚒️ Java · C# · Database · Bash · QML
